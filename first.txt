@@ -1,3 +1,2 @@
 Jusqu'à présent tout va bien :-)
 g fait un rename et ajouté cette ligne via la virtual box
-remodifier à partir de mon profil unamur
