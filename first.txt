@@ -1,2 +1,3 @@
 Jusqu'à présent tout va bien :-)
 g fait un rename et ajouté cette ligne via la virtual box
+ya le cours
